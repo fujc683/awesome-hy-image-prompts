@@ -35,7 +35,7 @@ HY Image 3.5 is known for Hunyuan text-to-image with flexible dimensions. This c
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-25
+- Last updated: 2026-10-26
 - apimart.ai/model/hy-image-v3-5-preview
 
 ## Browse by Category
