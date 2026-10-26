@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with HY Image 3.5 on APIMart · apimart.ai/model/hy-image-v3-5-preview](https://gola.apimart.ai/k-9ctj8J)**
+
+`https://gola.apimart.ai/k-9ctj8J`
 [💰 Pricing](https://gola.apimart.ai/k-k4v7vu) · [🔑 Get an API key](https://gola.apimart.ai/k-7swZb5)
 
 
@@ -35,7 +37,7 @@ HY Image 3.5 is known for Hunyuan text-to-image with flexible dimensions. This c
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-21
 - apimart.ai/model/hy-image-v3-5-preview
 
 ## Browse by Category
